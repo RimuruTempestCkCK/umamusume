@@ -1,13 +1,8 @@
 import { Link, useParams } from 'react-router-dom'
 import newsData from '../data/news.json'
-import officialHtml from '../data/officialHtml.json'
 
 export default function NewsDetail() {
   const { id } = useParams()
-
-  if (id === '100122') {
-    return <main id="main" dangerouslySetInnerHTML={{ __html: officialHtml['news-100122'] }} />
-  }
 
   const item = newsData.information_list.find((entry) => String(entry.announce_id) === id)
 
@@ -23,6 +18,16 @@ export default function NewsDetail() {
     )
   }
 
+  const formatDate = (dateStr: string) => {
+    try {
+      const d = new Date(dateStr)
+      if (isNaN(d.getTime())) return dateStr
+      return d.toISOString().slice(0, 10).replace(/-/g, '/')
+    } catch {
+      return dateStr
+    }
+  }
+
   return (
     <main id="main" className="page-news-detail">
       <div className="news-detail-inner">
@@ -33,13 +38,37 @@ export default function NewsDetail() {
           <span aria-hidden="true">&gt;</span>
           <span>{item.title}</span>
         </nav>
-        <h1 className="news-detail__title">{item.title}</h1>
-        <p className="news-detail__meta">
-          <span>Posted: {item.post_at}</span>
-          {item.update_at && <span>Updated: {item.update_at}</span>}
-        </p>
-        <div className="article-box-like" dangerouslySetInnerHTML={{ __html: item.message }} />
-        <Link to="/news/" className="button-link">Back to News</Link>
+
+        <header className="news-detail__header">
+          <h1 className="news-detail__title">{item.title}</h1>
+          <div className="news-detail__meta">
+            <time className="meta-post" dateTime={item.post_at}>
+              Posted: {formatDate(item.post_at)}
+            </time>
+            {item.update_at && (
+              <time className="meta-update" dateTime={item.update_at}>
+                Updated: {formatDate(item.update_at)}
+              </time>
+            )}
+          </div>
+        </header>
+
+        {item.image && (
+          <div className="news-detail__cover">
+            <img src={item.image} alt={item.title} />
+          </div>
+        )}
+
+        <div
+          className="article-box-like news-detail__content"
+          dangerouslySetInnerHTML={{ __html: item.message || '<p>No details provided.</p>' }}
+        />
+
+        <div className="news-detail__back">
+          <Link to="/news/" className="button-link">
+            Back to News
+          </Link>
+        </div>
       </div>
     </main>
   )

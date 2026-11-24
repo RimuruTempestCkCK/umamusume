@@ -8,7 +8,7 @@ import { useInView } from '../hooks/useInView'
 import PlayNowModal from '../components/PlayNowModal'
 import VideoModal from '../components/VideoModal'
 
-const newsItems = newsJson.information_list.slice(0, 5)
+const newsItems = newsJson.information_list.slice(0, 10)
 
 const homeCharactersSlugs = [
   'sakuralaurel',
@@ -228,8 +228,8 @@ export default function Home() {
               </div>
               <div className="top-news__bg">
                 <picture>
-                  <source media="(max-width: 899.98px)" srcSet="/assets/backgrounds/news_bg.avif" />
-                  <img src="/assets/backgrounds/news_bg_pc.webp" alt="" />
+                  <source media="(max-width: 899.98px)" srcSet="/assets/backgrounds/news_bg_pc.png" />
+                  <img src="/assets/backgrounds/news_bg_pc.png" alt="" />
                 </picture>
               </div>
             </div>
