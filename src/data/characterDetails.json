@@ -1,0 +1,3839 @@
+{
+  "specialweek": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744884538/files/user/character/specialweek/specialweek_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744884539/files/user/character/specialweek/specialweek_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884536/files/user/character/specialweek/specialweek_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884535/files/user/character/specialweek/specialweek_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884536/files/user/character/specialweek/specialweek_02_2.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884536/files/user/character/specialweek/specialweek_02_thumb_2.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884537/files/user/character/specialweek/specialweek_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884536/files/user/character/specialweek/specialweek_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884538/files/user/character/specialweek/specialweek_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884537/files/user/character/specialweek/specialweek_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167701/files/user/character/specialweek/specialweek_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744884538/files/user/character/specialweek/specialweek_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753456/files/user/character/specialweek/header_specialweek.jpg"
+    }
+  },
+  "silencesuzuka": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744884593/files/user/character/silencesuzuka/silencesuzuka_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744884593/files/user/character/silencesuzuka/silencesuzuka_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884590/files/user/character/silencesuzuka/silencesuzuka_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884590/files/user/character/silencesuzuka/silencesuzuka_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884767/files/user/character/silencesuzuka/silencesuzuka_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884590/files/user/character/silencesuzuka/silencesuzuka_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884592/files/user/character/silencesuzuka/silencesuzuka_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884768/files/user/character/silencesuzuka/silencesuzuka_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884592/files/user/character/silencesuzuka/silencesuzuka_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884592/files/user/character/silencesuzuka/silencesuzuka_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167688/files/user/character/silencesuzuka/silencesuzuka_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744884593/files/user/character/silencesuzuka/silencesuzuka_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753438/files/user/character/silencesuzuka/header_silencesuzuka.jpg"
+    }
+  },
+  "tokaiteio": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744884573/files/user/character/tokaiteio/tokaiteio_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744884574/files/user/character/tokaiteio/tokaiteio_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884571/files/user/character/tokaiteio/tokaiteio_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884570/files/user/character/tokaiteio/tokaiteio_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884571/files/user/character/tokaiteio/tokaiteio_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884571/files/user/character/tokaiteio/tokaiteio_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884572/files/user/character/tokaiteio/tokaiteio_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884572/files/user/character/tokaiteio/tokaiteio_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744884573/files/user/character/tokaiteio/tokaiteio_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744884572/files/user/character/tokaiteio/tokaiteio_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167734/files/user/character/tokaiteio/tokaiteio_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744884573/files/user/character/tokaiteio/tokaiteio_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753498/files/user/character/tokaiteio/header_tokaiteio.jpg"
+    }
+  },
+  "maruzensky": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744885689/files/user/character/maruzensky/maruzensky_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744885689/files/user/character/maruzensky/maruzensky_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744885685/files/user/character/maruzensky/maruzensky_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744885684/files/user/character/maruzensky/maruzensky_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744885686/files/user/character/maruzensky/maruzensky_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744885685/files/user/character/maruzensky/maruzensky_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744885687/files/user/character/maruzensky/maruzensky_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744885686/files/user/character/maruzensky/maruzensky_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744885688/files/user/character/maruzensky/maruzensky_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744885688/files/user/character/maruzensky/maruzensky_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167537/files/user/character/maruzensky/maruzensky_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744885689/files/user/character/maruzensky/maruzensky_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753260/files/user/character/maruzensky/header_maruzensky.jpg"
+    }
+  },
+  "fujikiseki": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167420/files/user/character/fujikiseki/fujikiseki_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944239/files/user/character/fujikiseki/fujikiseki_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753111/files/user/character/fujikiseki/header_fujikiseki.jpg"
+    }
+  },
+  "oguricap": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944401/files/user/character/oguricap/oguricap_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944401/files/user/character/oguricap/oguricap_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944398/files/user/character/oguricap/oguricap_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944397/files/user/character/oguricap/oguricap_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944399/files/user/character/oguricap/oguricap_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944398/files/user/character/oguricap/oguricap_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944400/files/user/character/oguricap/oguricap_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944399/files/user/character/oguricap/oguricap_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944401/files/user/character/oguricap/oguricap_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944400/files/user/character/oguricap/oguricap_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167651/files/user/character/oguricap/oguricap_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944401/files/user/character/oguricap/oguricap_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753409/files/user/character/oguricap/header_oguricap.jpg"
+    }
+  },
+  "goldship": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944608/files/user/character/goldship/goldship_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944608/files/user/character/goldship/goldship_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944605/files/user/character/goldship/goldship_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944605/files/user/character/goldship/goldship_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944606/files/user/character/goldship/goldship_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944606/files/user/character/goldship/goldship_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944607/files/user/character/goldship/goldship_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944606/files/user/character/goldship/goldship_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944608/files/user/character/goldship/goldship_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944607/files/user/character/goldship/goldship_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167431/files/user/character/goldship/goldship_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944608/files/user/character/goldship/goldship_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753124/files/user/character/goldship/header_goldship.jpg"
+    }
+  },
+  "vodka": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944761/files/user/character/vodka/vodka_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944761/files/user/character/vodka/vodka_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944758/files/user/character/vodka/vodka_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944758/files/user/character/vodka/vodka_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944759/files/user/character/vodka/vodka_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944759/files/user/character/vodka/vodka_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944760/files/user/character/vodka/vodka_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944759/files/user/character/vodka/vodka_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944761/files/user/character/vodka/vodka_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944760/files/user/character/vodka/vodka_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167748/files/user/character/vodka/vodka_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944761/files/user/character/vodka/vodka_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753509/files/user/character/vodka/header_vodka.jpg"
+    }
+  },
+  "daiwascarlet": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944627/files/user/character/daiwascarlet/daiwascarlet_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944627/files/user/character/daiwascarlet/daiwascarlet_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944624/files/user/character/daiwascarlet/daiwascarlet_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944623/files/user/character/daiwascarlet/daiwascarlet_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944625/files/user/character/daiwascarlet/daiwascarlet_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944624/files/user/character/daiwascarlet/daiwascarlet_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944626/files/user/character/daiwascarlet/daiwascarlet_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944625/files/user/character/daiwascarlet/daiwascarlet_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944626/files/user/character/daiwascarlet/daiwascarlet_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944626/files/user/character/daiwascarlet/daiwascarlet_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167376/files/user/character/daiwascarlet/daiwascarlet_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944627/files/user/character/daiwascarlet/daiwascarlet_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753065/files/user/character/daiwascarlet/header_daiwascarlet.jpg"
+    }
+  },
+  "taikishuttle": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944734/files/user/character/taikishuttle/taikishuttle_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944734/files/user/character/taikishuttle/taikishuttle_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944731/files/user/character/taikishuttle/taikishuttle_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944731/files/user/character/taikishuttle/taikishuttle_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944732/files/user/character/taikishuttle/taikishuttle_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944731/files/user/character/taikishuttle/taikishuttle_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944733/files/user/character/taikishuttle/taikishuttle_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944732/files/user/character/taikishuttle/taikishuttle_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944734/files/user/character/taikishuttle/taikishuttle_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944733/files/user/character/taikishuttle/taikishuttle_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167720/files/user/character/taikishuttle/taikishuttle_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944734/files/user/character/taikishuttle/taikishuttle_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753486/files/user/character/taikishuttle/header_taikishuttle.jpg"
+    }
+  },
+  "grasswonder": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944665/files/user/character/grasswonder/grasswonder_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944665/files/user/character/grasswonder/grasswonder_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944662/files/user/character/grasswonder/grasswonder_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944661/files/user/character/grasswonder/grasswonder_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944663/files/user/character/grasswonder/grasswonder_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944662/files/user/character/grasswonder/grasswonder_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944664/files/user/character/grasswonder/grasswonder_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944663/files/user/character/grasswonder/grasswonder_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944664/files/user/character/grasswonder/grasswonder_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944664/files/user/character/grasswonder/grasswonder_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167448/files/user/character/grasswonder/grasswonder_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944665/files/user/character/grasswonder/grasswonder_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753138/files/user/character/grasswonder/header_grasswonder.jpg"
+    }
+  },
+  "hishiamazon": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944689/files/user/character/hishiamazon/hishiamazon_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944689/files/user/character/hishiamazon/hishiamazon_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944687/files/user/character/hishiamazon/hishiamazon_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944687/files/user/character/hishiamazon/hishiamazon_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944688/files/user/character/hishiamazon/hishiamazon_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944687/files/user/character/hishiamazon/hishiamazon_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944688/files/user/character/hishiamazon/hishiamazon_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944688/files/user/character/hishiamazon/hishiamazon_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944689/files/user/character/hishiamazon/hishiamazon_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944689/files/user/character/hishiamazon/hishiamazon_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167470/files/user/character/hishiamazon/hishiamazon_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944689/files/user/character/hishiamazon/hishiamazon_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753217/files/user/character/hishiamazon/header_hishiamazon.jpg"
+    }
+  },
+  "mejiromcqueen": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944706/files/user/character/mejiromcqueen/mejiromcqueen_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944706/files/user/character/mejiromcqueen/mejiromcqueen_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944704/files/user/character/mejiromcqueen/mejiromcqueen_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944703/files/user/character/mejiromcqueen/mejiromcqueen_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944704/files/user/character/mejiromcqueen/mejiromcqueen_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944704/files/user/character/mejiromcqueen/mejiromcqueen_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944705/files/user/character/mejiromcqueen/mejiromcqueen_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944705/files/user/character/mejiromcqueen/mejiromcqueen_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944706/files/user/character/mejiromcqueen/mejiromcqueen_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944705/files/user/character/mejiromcqueen/mejiromcqueen_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167595/files/user/character/mejiromcqueen/mejiromcqueen_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944706/files/user/character/mejiromcqueen/mejiromcqueen_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753322/files/user/character/mejiromcqueen/header_mejiromcqueen.jpg"
+    }
+  },
+  "elcondorpasa": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944639/files/user/character/elcondorpasa/elcondorpasa_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944639/files/user/character/elcondorpasa/elcondorpasa_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944636/files/user/character/elcondorpasa/elcondorpasa_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944636/files/user/character/elcondorpasa/elcondorpasa_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944637/files/user/character/elcondorpasa/elcondorpasa_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944637/files/user/character/elcondorpasa/elcondorpasa_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944638/files/user/character/elcondorpasa/elcondorpasa_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944637/files/user/character/elcondorpasa/elcondorpasa_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944639/files/user/character/elcondorpasa/elcondorpasa_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944638/files/user/character/elcondorpasa/elcondorpasa_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167404/files/user/character/elcondorpasa/elcondorpasa_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944639/files/user/character/elcondorpasa/elcondorpasa_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753098/files/user/character/elcondorpasa/header_elcondorpasa.jpg"
+    }
+  },
+  "tmoperao": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744944743/files/user/character/tmoperao/tmoperao_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744944743/files/user/character/tmoperao/tmoperao_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944741/files/user/character/tmoperao/tmoperao_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944740/files/user/character/tmoperao/tmoperao_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944741/files/user/character/tmoperao/tmoperao_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944741/files/user/character/tmoperao/tmoperao_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944742/files/user/character/tmoperao/tmoperao_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944742/files/user/character/tmoperao/tmoperao_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744944743/files/user/character/tmoperao/tmoperao_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744944742/files/user/character/tmoperao/tmoperao_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167730/files/user/character/tmoperao/tmoperao_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744944743/files/user/character/tmoperao/tmoperao_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753494/files/user/character/tmoperao/header_tmoperao.jpg"
+    }
+  },
+  "naritabrian": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1747380993/files/user/character/naritabrian/naritabrian_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1747380993/files/user/character/naritabrian/naritabrian_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1747380990/files/user/character/naritabrian/naritabrian_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1747380989/files/user/character/naritabrian/naritabrian_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1747380991/files/user/character/naritabrian/naritabrian_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1747380990/files/user/character/naritabrian/naritabrian_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1747380992/files/user/character/naritabrian/naritabrian_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1747380991/files/user/character/naritabrian/naritabrian_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1747380992/files/user/character/naritabrian/naritabrian_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1747380992/files/user/character/naritabrian/naritabrian_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167628/files/user/character/naritabrian/naritabrian_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1747380993/files/user/character/naritabrian/naritabrian_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753353/files/user/character/naritabrian/header_naritabrian.jpg"
+    }
+  },
+  "symbolirudolf": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749109386/files/user/character/symbolirudolf/symbolirudolf_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749109386/files/user/character/symbolirudolf/symbolirudolf_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749109383/files/user/character/symbolirudolf/symbolirudolf_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749109383/files/user/character/symbolirudolf/symbolirudolf_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749109384/files/user/character/symbolirudolf/symbolirudolf_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749109384/files/user/character/symbolirudolf/symbolirudolf_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749109384/files/user/character/symbolirudolf/symbolirudolf_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749109384/files/user/character/symbolirudolf/symbolirudolf_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749109385/files/user/character/symbolirudolf/symbolirudolf_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749109385/files/user/character/symbolirudolf/symbolirudolf_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167716/files/user/character/symbolirudolf/symbolirudolf_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749109386/files/user/character/symbolirudolf/symbolirudolf_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753482/files/user/character/symbolirudolf/header_symbolirudolf.jpg"
+    }
+  },
+  "airgroove": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749189959/files/user/character/airgroove/airgroove_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749189959/files/user/character/airgroove/airgroove_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749189955/files/user/character/airgroove/airgroove_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749189955/files/user/character/airgroove/airgroove_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749189956/files/user/character/airgroove/airgroove_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749189956/files/user/character/airgroove/airgroove_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749189957/files/user/character/airgroove/airgroove_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749189957/files/user/character/airgroove/airgroove_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749189958/files/user/character/airgroove/airgroove_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749189958/files/user/character/airgroove/airgroove_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167288/files/user/character/airgroove/airgroove_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749189958/files/user/character/airgroove/airgroove_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750752955/files/user/character/airgroove/header_airgroove.jpg"
+    }
+  },
+  "agnesdigital": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750748368/files/user/character/agnesdigital/agnesdigital_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750748368/files/user/character/agnesdigital/agnesdigital_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748369/files/user/character/agnesdigital/agnesdigital_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748369/files/user/character/agnesdigital/agnesdigital_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748370/files/user/character/agnesdigital/agnesdigital_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748370/files/user/character/agnesdigital/agnesdigital_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748371/files/user/character/agnesdigital/agnesdigital_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748371/files/user/character/agnesdigital/agnesdigital_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748371/files/user/character/agnesdigital/agnesdigital_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748371/files/user/character/agnesdigital/agnesdigital_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167199/files/user/character/agnesdigital/agnesdigital_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750748372/files/user/character/agnesdigital/agnesdigital_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750752933/files/user/character/agnesdigital/header_agnesdigital.jpg"
+    }
+  },
+  "seiunsky": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750748751/files/user/character/seiunsky/seiunsky_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750748751/files/user/character/seiunsky/seiunsky_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748752/files/user/character/seiunsky/seiunsky_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748752/files/user/character/seiunsky/seiunsky_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748753/files/user/character/seiunsky/seiunsky_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748753/files/user/character/seiunsky/seiunsky_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748754/files/user/character/seiunsky/seiunsky_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748754/files/user/character/seiunsky/seiunsky_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748754/files/user/character/seiunsky/seiunsky_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748754/files/user/character/seiunsky/seiunsky_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167681/files/user/character/seiunsky/seiunsky_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750748754/files/user/character/seiunsky/seiunsky_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753433/files/user/character/seiunsky/header_seiunsky.jpg"
+    }
+  },
+  "tamamocross": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750748798/files/user/character/tamamocross/tamamocross_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750748798/files/user/character/tamamocross/tamamocross_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748799/files/user/character/tamamocross/tamamocross_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748799/files/user/character/tamamocross/tamamocross_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748799/files/user/character/tamamocross/tamamocross_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748799/files/user/character/tamamocross/tamamocross_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748800/files/user/character/tamamocross/tamamocross_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748800/files/user/character/tamamocross/tamamocross_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748800/files/user/character/tamamocross/tamamocross_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748801/files/user/character/tamamocross/tamamocross_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167723/files/user/character/tamamocross/tamamocross_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750748797/files/user/character/tamamocross/tamamocross_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753490/files/user/character/tamamocross/header_tamamocross.jpg"
+    }
+  },
+  "finemotion": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750748854/files/user/character/finemotion/finemotion_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750748854/files/user/character/finemotion/finemotion_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748852/files/user/character/finemotion/finemotion_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748852/files/user/character/finemotion/finemotion_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748852/files/user/character/finemotion/finemotion_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748852/files/user/character/finemotion/finemotion_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748853/files/user/character/finemotion/finemotion_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748853/files/user/character/finemotion/finemotion_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748854/files/user/character/finemotion/finemotion_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748854/files/user/character/finemotion/finemotion_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167411/files/user/character/finemotion/finemotion_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750748854/files/user/character/finemotion/finemotion_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753106/files/user/character/finemotion/header_finemotion.jpg"
+    }
+  },
+  "biwahayahide": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750748905/files/user/character/biwahayahide/biwahayahide_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750748906/files/user/character/biwahayahide/biwahayahide_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748906/files/user/character/biwahayahide/biwahayahide_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748906/files/user/character/biwahayahide/biwahayahide_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748907/files/user/character/biwahayahide/biwahayahide_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748907/files/user/character/biwahayahide/biwahayahide_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748907/files/user/character/biwahayahide/biwahayahide_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748907/files/user/character/biwahayahide/biwahayahide_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750748905/files/user/character/biwahayahide/biwahayahide_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750748905/files/user/character/biwahayahide/biwahayahide_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167336/files/user/character/biwahayahide/biwahayahide_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750748905/files/user/character/biwahayahide/biwahayahide_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753048/files/user/character/biwahayahide/header_biwahayahide.jpg"
+    }
+  },
+  "mayanotopgun": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211433/files/user/character/mayanotopgun/mayanotopgun_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211434/files/user/character/mayanotopgun/mayanotopgun_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211435/files/user/character/mayanotopgun/mayanotopgun_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211435/files/user/character/mayanotopgun/mayanotopgun_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211436/files/user/character/mayanotopgun/mayanotopgun_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211436/files/user/character/mayanotopgun/mayanotopgun_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211437/files/user/character/mayanotopgun/mayanotopgun_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211438/files/user/character/mayanotopgun/mayanotopgun_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211438/files/user/character/mayanotopgun/mayanotopgun_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211439/files/user/character/mayanotopgun/mayanotopgun_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167574/files/user/character/mayanotopgun/mayanotopgun_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211433/files/user/character/mayanotopgun/mayanotopgun_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753292/files/user/character/mayanotopgun/header_mayanotopgun.jpg"
+    }
+  },
+  "manhattancafe": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167534/files/user/character/manhattancafe/manhattancafe_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749084/files/user/character/manhattancafe/manhattancafe_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753251/files/user/character/manhattancafe/header_manhattancafe.jpg"
+    }
+  },
+  "mihonobourbon": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749149/files/user/character/mihonobourbon/mihonobourbon_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749149/files/user/character/mihonobourbon/mihonobourbon_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749149/files/user/character/mihonobourbon/mihonobourbon_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749146/files/user/character/mihonobourbon/mihonobourbon_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749147/files/user/character/mihonobourbon/mihonobourbon_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749147/files/user/character/mihonobourbon/mihonobourbon_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749147/files/user/character/mihonobourbon/mihonobourbon_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749148/files/user/character/mihonobourbon/mihonobourbon_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749148/files/user/character/mihonobourbon/mihonobourbon_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749148/files/user/character/mihonobourbon/mihonobourbon_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167620/files/user/character/mihonobourbon/mihonobourbon_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749148/files/user/character/mihonobourbon/mihonobourbon_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753346/files/user/character/mihonobourbon/header_mihonobourbon.jpg"
+    }
+  },
+  "mejiroryan": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211633/files/user/character/mejiroryan/mejiroryan_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211633/files/user/character/mejiroryan/mejiroryan_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211634/files/user/character/mejiroryan/mejiroryan_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211635/files/user/character/mejiroryan/mejiroryan_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211635/files/user/character/mejiroryan/mejiroryan_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211636/files/user/character/mejiroryan/mejiroryan_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211636/files/user/character/mejiroryan/mejiroryan_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211637/files/user/character/mejiroryan/mejiroryan_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211638/files/user/character/mejiroryan/mejiroryan_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211632/files/user/character/mejiroryan/mejiroryan_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167616/files/user/character/mejiroryan/mejiroryan_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211632/files/user/character/mejiroryan/mejiroryan_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753341/files/user/character/mejiroryan/header_mejiroryan.jpg"
+    }
+  },
+  "hishiakebono": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749492/files/user/character/hishiakebono/hishiakebono_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749492/files/user/character/hishiakebono/hishiakebono_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749493/files/user/character/hishiakebono/hishiakebono_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749493/files/user/character/hishiakebono/hishiakebono_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749494/files/user/character/hishiakebono/hishiakebono_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749494/files/user/character/hishiakebono/hishiakebono_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749494/files/user/character/hishiakebono/hishiakebono_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749491/files/user/character/hishiakebono/hishiakebono_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749492/files/user/character/hishiakebono/hishiakebono_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749492/files/user/character/hishiakebono/hishiakebono_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167464/files/user/character/hishiakebono/hishiakebono_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749492/files/user/character/hishiakebono/hishiakebono_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753208/files/user/character/hishiakebono/header_hishiakebono.jpg"
+    }
+  },
+  "yukinobijin": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749549/files/user/character/yukinobijin/yukinobijin_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749549/files/user/character/yukinobijin/yukinobijin_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749550/files/user/character/yukinobijin/yukinobijin_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749550/files/user/character/yukinobijin/yukinobijin_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749547/files/user/character/yukinobijin/yukinobijin_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749548/files/user/character/yukinobijin/yukinobijin_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749548/files/user/character/yukinobijin/yukinobijin_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749548/files/user/character/yukinobijin/yukinobijin_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749549/files/user/character/yukinobijin/yukinobijin_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749549/files/user/character/yukinobijin/yukinobijin_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167769/files/user/character/yukinobijin/yukinobijin_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749549/files/user/character/yukinobijin/yukinobijin_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753519/files/user/character/yukinobijin/header_yukinobijin.jpg"
+    }
+  },
+  "riceshower": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211656/files/user/character/riceshower/riceshower_01_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211654/files/user/character/riceshower/riceshower_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211655/files/user/character/riceshower/riceshower_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211656/files/user/character/riceshower/riceshower_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211657/files/user/character/riceshower/riceshower_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211657/files/user/character/riceshower/riceshower_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211658/files/user/character/riceshower/riceshower_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211653/files/user/character/riceshower/riceshower_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211653/files/user/character/riceshower/riceshower_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211654/files/user/character/riceshower/riceshower_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167657/files/user/character/riceshower/riceshower_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211654/files/user/character/riceshower/riceshower_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753420/files/user/character/riceshower/header_riceshower.jpg"
+    }
+  },
+  "inesfujin": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749602/files/user/character/inesfujin/inesfujin_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749602/files/user/character/inesfujin/inesfujin_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749600/files/user/character/inesfujin/inesfujin_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749600/files/user/character/inesfujin/inesfujin_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749601/files/user/character/inesfujin/inesfujin_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749601/files/user/character/inesfujin/inesfujin_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749601/files/user/character/inesfujin/inesfujin_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749601/files/user/character/inesfujin/inesfujin_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749602/files/user/character/inesfujin/inesfujin_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749602/files/user/character/inesfujin/inesfujin_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167493/files/user/character/inesfujin/inesfujin_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749602/files/user/character/inesfujin/inesfujin_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753228/files/user/character/inesfujin/header_inesfujin.jpg"
+    }
+  },
+  "agnestachyon": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211670/files/user/character/agnestachyon/agnestachyon_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211670/files/user/character/agnestachyon/agnestachyon_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211671/files/user/character/agnestachyon/agnestachyon_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211672/files/user/character/agnestachyon/agnestachyon_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211672/files/user/character/agnestachyon/agnestachyon_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211673/files/user/character/agnestachyon/agnestachyon_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211674/files/user/character/agnestachyon/agnestachyon_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211674/files/user/character/agnestachyon/agnestachyon_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211675/files/user/character/agnestachyon/agnestachyon_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211675/files/user/character/agnestachyon/agnestachyon_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167206/files/user/character/agnestachyon/agnestachyon_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211669/files/user/character/agnestachyon/agnestachyon_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750752949/files/user/character/agnestachyon/header_agnestachyon.jpg"
+    }
+  },
+  "admirevega": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/admirevega_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/admirevega_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055039/files/user/character/admirevega/admirevega_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055039/files/user/character/admirevega/admirevega_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055040/files/user/character/admirevega/admirevega_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055040/files/user/character/admirevega/admirevega_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055040/files/user/character/admirevega/admirevega_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055040/files/user/character/admirevega/admirevega_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/admirevega_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/admirevega_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167191/files/user/character/admirevega/admirevega_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/admirevega_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1757055038/files/user/character/admirevega/header_admirevega.jpg"
+    }
+  },
+  "inarione": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1757054962/files/user/character/inarione/inarione_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1757054962/files/user/character/inarione/inarione_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757054963/files/user/character/inarione/inarione_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757054963/files/user/character/inarione/inarione_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757054964/files/user/character/inarione/inarione_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757054964/files/user/character/inarione/inarione_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757054965/files/user/character/inarione/inarione_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757054965/files/user/character/inarione/inarione_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757054965/files/user/character/inarione/inarione_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757054962/files/user/character/inarione/inarione_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167488/files/user/character/inarione/inarione_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1757054962/files/user/character/inarione/inarione_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1757054963/files/user/character/inarione/header_inarione.jpg"
+    }
+  },
+  "winningticket": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211687/files/user/character/winningticket/winningticket_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211687/files/user/character/winningticket/winningticket_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211689/files/user/character/winningticket/winningticket_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211689/files/user/character/winningticket/winningticket_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211689/files/user/character/winningticket/winningticket_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211690/files/user/character/winningticket/winningticket_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211691/files/user/character/winningticket/winningticket_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211691/files/user/character/winningticket/winningticket_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211691/files/user/character/winningticket/winningticket_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211686/files/user/character/winningticket/winningticket_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167753/files/user/character/winningticket/winningticket_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211686/files/user/character/winningticket/winningticket_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753513/files/user/character/winningticket/header_winningticket.jpg"
+    }
+  },
+  "airshakur": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749726/files/user/character/airshakur/airshakur_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749727/files/user/character/airshakur/airshakur_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749723/files/user/character/airshakur/airshakur_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749723/files/user/character/airshakur/airshakur_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749724/files/user/character/airshakur/airshakur_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749724/files/user/character/airshakur/airshakur_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749724/files/user/character/airshakur/airshakur_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749724/files/user/character/airshakur/airshakur_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749725/files/user/character/airshakur/airshakur_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749725/files/user/character/airshakur/airshakur_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167314/files/user/character/airshakur/airshakur_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749725/files/user/character/airshakur/airshakur_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750752966/files/user/character/airshakur/header_airshakur.jpg"
+    }
+  },
+  "eishinflash": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749830/files/user/character/eishinflash/eishinflash_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749831/files/user/character/eishinflash/eishinflash_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749828/files/user/character/eishinflash/eishinflash_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749828/files/user/character/eishinflash/eishinflash_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749829/files/user/character/eishinflash/eishinflash_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749829/files/user/character/eishinflash/eishinflash_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749829/files/user/character/eishinflash/eishinflash_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749830/files/user/character/eishinflash/eishinflash_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749830/files/user/character/eishinflash/eishinflash_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749830/files/user/character/eishinflash/eishinflash_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167401/files/user/character/eishinflash/eishinflash_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749830/files/user/character/eishinflash/eishinflash_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753076/files/user/character/eishinflash/header_eishinflash.jpg"
+    }
+  },
+  "currenchan": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255308/files/user/character/currenchan/currenchan_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255304/files/user/character/currenchan/currenchan_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255305/files/user/character/currenchan/currenchan_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255305/files/user/character/currenchan/currenchan_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255306/files/user/character/currenchan/currenchan_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255306/files/user/character/currenchan/currenchan_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255307/files/user/character/currenchan/currenchan_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255307/files/user/character/currenchan/currenchan_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255307/files/user/character/currenchan/currenchan_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255307/files/user/character/currenchan/currenchan_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167363/files/user/character/currenchan/currenchan_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255308/files/user/character/currenchan/currenchan_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255305/files/user/character/currenchan/header_currenchan.jpg"
+    }
+  },
+  "kawakamiprincess": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1752477882/files/user/character/kawakamiprincess/kawakamiprincess_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1752477882/files/user/character/kawakamiprincess/kawakamiprincess_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477882/files/user/character/kawakamiprincess/kawakamiprincess_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/kawakamiprincess_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167510/files/user/character/kawakamiprincess/kawakamiprincess_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1752477882/files/user/character/kawakamiprincess/kawakamiprincess_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1752477881/files/user/character/kawakamiprincess/header_kawakamiprincess.jpg"
+    }
+  },
+  "goldcity": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750749900/files/user/character/goldcity/goldcity_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750749900/files/user/character/goldcity/goldcity_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749901/files/user/character/goldcity/goldcity_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749898/files/user/character/goldcity/goldcity_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749898/files/user/character/goldcity/goldcity_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749899/files/user/character/goldcity/goldcity_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749899/files/user/character/goldcity/goldcity_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749899/files/user/character/goldcity/goldcity_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750749900/files/user/character/goldcity/goldcity_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750749900/files/user/character/goldcity/goldcity_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167427/files/user/character/goldcity/goldcity_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750749900/files/user/character/goldcity/goldcity_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753118/files/user/character/goldcity/header_goldcity.jpg"
+    }
+  },
+  "sakurabakushino": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211708/files/user/character/sakurabakushino/sakurabakushino_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211709/files/user/character/sakurabakushino/sakurabakushino_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211710/files/user/character/sakurabakushino/sakurabakushino_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211710/files/user/character/sakurabakushino/sakurabakushino_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211711/files/user/character/sakurabakushino/sakurabakushino_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211711/files/user/character/sakurabakushino/sakurabakushino_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211712/files/user/character/sakurabakushino/sakurabakushino_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211712/files/user/character/sakurabakushino/sakurabakushino_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211713/files/user/character/sakurabakushino/sakurabakushino_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211708/files/user/character/sakurabakushino/sakurabakushino_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167661/files/user/character/sakurabakushino/sakurabakushino_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211708/files/user/character/sakurabakushino/sakurabakushino_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753425/files/user/character/sakurabakushino/header_sakurabakushino.jpg"
+    }
+  },
+  "seekingthepearl": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167677/files/user/character/seekingthepearl/seekingthepearl_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255526/files/user/character/seekingthepearl/seekingthepearl_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751264548/files/user/character/seekingthepearl/header_seekingthepearl.jpg"
+    }
+  },
+  "shinkowindy": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843324/files/user/character/shinkowindy/shinkowindy_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843324/files/user/character/shinkowindy/shinkowindy_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843325/files/user/character/shinkowindy/shinkowindy_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843325/files/user/character/shinkowindy/shinkowindy_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843326/files/user/character/shinkowindy/shinkowindy_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843326/files/user/character/shinkowindy/shinkowindy_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843327/files/user/character/shinkowindy/shinkowindy_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843327/files/user/character/shinkowindy/shinkowindy_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843327/files/user/character/shinkowindy/shinkowindy_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843328/files/user/character/shinkowindy/shinkowindy_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167684/files/user/character/shinkowindy/shinkowindy_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843324/files/user/character/shinkowindy/shinkowindy_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843325/files/user/character/shinkowindy/header_shinkowindy.jpg"
+    }
+  },
+  "sweeptosho": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167708/files/user/character/sweeptosho/sweeptosho_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750009/files/user/character/sweeptosho/sweeptosho_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753478/files/user/character/sweeptosho/header_sweeptosho.jpg"
+    }
+  },
+  "supercreek": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211726/files/user/character/supercreek/supercreek_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211726/files/user/character/supercreek/supercreek_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211728/files/user/character/supercreek/supercreek_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211728/files/user/character/supercreek/supercreek_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211729/files/user/character/supercreek/supercreek_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211729/files/user/character/supercreek/supercreek_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211730/files/user/character/supercreek/supercreek_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211730/files/user/character/supercreek/supercreek_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211731/files/user/character/supercreek/supercreek_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211725/files/user/character/supercreek/supercreek_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167704/files/user/character/supercreek/supercreek_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211726/files/user/character/supercreek/supercreek_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753461/files/user/character/supercreek/header_supercreek.jpg"
+    }
+  },
+  "smartfalcon": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750096/files/user/character/smartfalcon/smartfalcon_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750096/files/user/character/smartfalcon/smartfalcon_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750094/files/user/character/smartfalcon/smartfalcon_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750094/files/user/character/smartfalcon/smartfalcon_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750094/files/user/character/smartfalcon/smartfalcon_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750094/files/user/character/smartfalcon/smartfalcon_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750095/files/user/character/smartfalcon/smartfalcon_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750095/files/user/character/smartfalcon/smartfalcon_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750095/files/user/character/smartfalcon/smartfalcon_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750096/files/user/character/smartfalcon/smartfalcon_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167696/files/user/character/smartfalcon/smartfalcon_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750096/files/user/character/smartfalcon/smartfalcon_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753450/files/user/character/smartfalcon/header_smartfalcon.jpg"
+    }
+  },
+  "zennorobroy": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255358/files/user/character/zennorobroy/zennorobroy_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255358/files/user/character/zennorobroy/zennorobroy_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255359/files/user/character/zennorobroy/zennorobroy_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255359/files/user/character/zennorobroy/zennorobroy_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255360/files/user/character/zennorobroy/zennorobroy_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255360/files/user/character/zennorobroy/zennorobroy_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255360/files/user/character/zennorobroy/zennorobroy_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255360/files/user/character/zennorobroy/zennorobroy_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255361/files/user/character/zennorobroy/zennorobroy_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255361/files/user/character/zennorobroy/zennorobroy_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167773/files/user/character/zennorobroy/zennorobroy_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255361/files/user/character/zennorobroy/zennorobroy_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255358/files/user/character/zennorobroy/header_zennorobroy.jpg"
+    }
+  },
+  "tosenjordan": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843533/files/user/character/tosenjordan/tosenjordan_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843533/files/user/character/tosenjordan/tosenjordan_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843534/files/user/character/tosenjordan/tosenjordan_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843534/files/user/character/tosenjordan/tosenjordan_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843535/files/user/character/tosenjordan/tosenjordan_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843535/files/user/character/tosenjordan/tosenjordan_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843535/files/user/character/tosenjordan/tosenjordan_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843535/files/user/character/tosenjordan/tosenjordan_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843536/files/user/character/tosenjordan/tosenjordan_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843536/files/user/character/tosenjordan/tosenjordan_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167737/files/user/character/tosenjordan/tosenjordan_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843533/files/user/character/tosenjordan/tosenjordan_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843534/files/user/character/tosenjordan/header_tosenjordan.jpg"
+    }
+  },
+  "nakayamafesta": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843650/files/user/character/nakayamafesta/nakayamafesta_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843650/files/user/character/nakayamafesta/nakayamafesta_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843651/files/user/character/nakayamafesta/nakayamafesta_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843651/files/user/character/nakayamafesta/nakayamafesta_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843652/files/user/character/nakayamafesta/nakayamafesta_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843652/files/user/character/nakayamafesta/nakayamafesta_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843653/files/user/character/nakayamafesta/nakayamafesta_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843653/files/user/character/nakayamafesta/nakayamafesta_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843653/files/user/character/nakayamafesta/nakayamafesta_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843654/files/user/character/nakayamafesta/nakayamafesta_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167625/files/user/character/nakayamafesta/nakayamafesta_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843650/files/user/character/nakayamafesta/nakayamafesta_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843650/files/user/character/nakayamafesta/header_nakayamafesta.jpg"
+    }
+  },
+  "naritataishin": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750206/files/user/character/naritataishin/naritataishin_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750207/files/user/character/naritataishin/naritataishin_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750208/files/user/character/naritataishin/naritataishin_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750208/files/user/character/naritataishin/naritataishin_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750208/files/user/character/naritataishin/naritataishin_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750208/files/user/character/naritataishin/naritataishin_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750209/files/user/character/naritataishin/naritataishin_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750209/files/user/character/naritataishin/naritataishin_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750210/files/user/character/naritataishin/naritataishin_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750210/files/user/character/naritataishin/naritataishin_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167630/files/user/character/naritataishin/naritataishin_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750210/files/user/character/naritataishin/naritataishin_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753359/files/user/character/naritataishin/header_naritataishin.jpg"
+    }
+  },
+  "nishinoflower": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750279/files/user/character/nishinoflower/nishinoflower_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750279/files/user/character/nishinoflower/nishinoflower_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750280/files/user/character/nishinoflower/nishinoflower_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750280/files/user/character/nishinoflower/nishinoflower_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750280/files/user/character/nishinoflower/nishinoflower_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750277/files/user/character/nishinoflower/nishinoflower_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750278/files/user/character/nishinoflower/nishinoflower_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750278/files/user/character/nishinoflower/nishinoflower_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750279/files/user/character/nishinoflower/nishinoflower_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750279/files/user/character/nishinoflower/nishinoflower_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167643/files/user/character/nishinoflower/nishinoflower_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750279/files/user/character/nishinoflower/nishinoflower_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753366/files/user/character/nishinoflower/header_nishinoflower.jpg"
+    }
+  },
+  "haruurara": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211744/files/user/character/haruurara/haruurara_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211745/files/user/character/haruurara/haruurara_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211746/files/user/character/haruurara/haruurara_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211746/files/user/character/haruurara/haruurara_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211747/files/user/character/haruurara/haruurara_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211747/files/user/character/haruurara/haruurara_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211748/files/user/character/haruurara/haruurara_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211748/files/user/character/haruurara/haruurara_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211749/files/user/character/haruurara/haruurara_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211749/files/user/character/haruurara/haruurara_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167454/files/user/character/haruurara/haruurara_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211744/files/user/character/haruurara/haruurara_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753154/files/user/character/haruurara/header_haruurara.jpg"
+    }
+  },
+  "bamboomemory": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843370/files/user/character/bamboomemory/bamboomemory_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843367/files/user/character/bamboomemory/bamboomemory_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843368/files/user/character/bamboomemory/bamboomemory_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843368/files/user/character/bamboomemory/bamboomemory_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1782712338/files/user/character/bamboomemory/bamboomemory_en_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1782712338/files/user/character/bamboomemory/bamboomemory_en_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843369/files/user/character/bamboomemory/bamboomemory_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843369/files/user/character/bamboomemory/bamboomemory_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843370/files/user/character/bamboomemory/bamboomemory_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843370/files/user/character/bamboomemory/bamboomemory_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167325/files/user/character/bamboomemory/bamboomemory_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843370/files/user/character/bamboomemory/bamboomemory_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843367/files/user/character/bamboomemory/header_bamboomemory.jpg"
+    }
+  },
+  "bikopegasus": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750351/files/user/character/bikopegasus/bikopegasus_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750351/files/user/character/bikopegasus/bikopegasus_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750352/files/user/character/bikopegasus/bikopegasus_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750352/files/user/character/bikopegasus/bikopegasus_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750353/files/user/character/bikopegasus/bikopegasus_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750353/files/user/character/bikopegasus/bikopegasus_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750353/files/user/character/bikopegasus/bikopegasus_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750353/files/user/character/bikopegasus/bikopegasus_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750351/files/user/character/bikopegasus/bikopegasus_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750351/files/user/character/bikopegasus/bikopegasus_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167331/files/user/character/bikopegasus/bikopegasus_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750351/files/user/character/bikopegasus/bikopegasus_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753044/files/user/character/bikopegasus/header_bikopegasus.jpg"
+    }
+  },
+  "marveloussunday": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750443/files/user/character/marveloussunday/marveloussunday_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750443/files/user/character/marveloussunday/marveloussunday_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750444/files/user/character/marveloussunday/marveloussunday_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750444/files/user/character/marveloussunday/marveloussunday_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750441/files/user/character/marveloussunday/marveloussunday_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750441/files/user/character/marveloussunday/marveloussunday_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750442/files/user/character/marveloussunday/marveloussunday_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750442/files/user/character/marveloussunday/marveloussunday_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750443/files/user/character/marveloussunday/marveloussunday_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750443/files/user/character/marveloussunday/marveloussunday_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167549/files/user/character/marveloussunday/marveloussunday_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750443/files/user/character/marveloussunday/marveloussunday_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753273/files/user/character/marveloussunday/header_marveloussunday.jpg"
+    }
+  },
+  "matikanefukukitaru": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211770/files/user/character/matikanefukukitaru/matikanefukukitaru_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211771/files/user/character/matikanefukukitaru/matikanefukukitaru_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211772/files/user/character/matikanefukukitaru/matikanefukukitaru_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211772/files/user/character/matikanefukukitaru/matikanefukukitaru_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211773/files/user/character/matikanefukukitaru/matikanefukukitaru_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211773/files/user/character/matikanefukukitaru/matikanefukukitaru_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211769/files/user/character/matikanefukukitaru/matikanefukukitaru_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211769/files/user/character/matikanefukukitaru/matikanefukukitaru_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211770/files/user/character/matikanefukukitaru/matikanefukukitaru_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211770/files/user/character/matikanefukukitaru/matikanefukukitaru_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167554/files/user/character/matikanefukukitaru/matikanefukukitaru_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211770/files/user/character/matikanefukukitaru/matikanefukukitaru_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753278/files/user/character/matikanefukukitaru/header_matikanefukukitaru.jpg"
+    }
+  },
+  "mrcb": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440020/files/user/character/mrcb/mrcb_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440018/files/user/character/mrcb/mrcb_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440018/files/user/character/mrcb/mrcb_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440018/files/user/character/mrcb/mrcb_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440018/files/user/character/mrcb/mrcb_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440020/files/user/character/mrcb/mrcb_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440019/files/user/character/mrcb/mrcb_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440020/files/user/character/mrcb/header_mrcb.jpg"
+    }
+  },
+  "meishodoto": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750564/files/user/character/meishodoto/meishodoto_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750564/files/user/character/meishodoto/meishodoto_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750565/files/user/character/meishodoto/meishodoto_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750562/files/user/character/meishodoto/meishodoto_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750563/files/user/character/meishodoto/meishodoto_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750563/files/user/character/meishodoto/meishodoto_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750563/files/user/character/meishodoto/meishodoto_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750563/files/user/character/meishodoto/meishodoto_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750564/files/user/character/meishodoto/meishodoto_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750564/files/user/character/meishodoto/meishodoto_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167579/files/user/character/meishodoto/meishodoto_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750564/files/user/character/meishodoto/meishodoto_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753303/files/user/character/meishodoto/header_meishodoto.jpg"
+    }
+  },
+  "mejirodober": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750750651/files/user/character/mejirodober/mejirodober_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750750651/files/user/character/mejirodober/mejirodober_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750652/files/user/character/mejirodober/mejirodober_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750652/files/user/character/mejirodober/mejirodober_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750649/files/user/character/mejirodober/mejirodober_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750650/files/user/character/mejirodober/mejirodober_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750650/files/user/character/mejirodober/mejirodober_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750650/files/user/character/mejirodober/mejirodober_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750750651/files/user/character/mejirodober/mejirodober_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750750651/files/user/character/mejirodober/mejirodober_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167591/files/user/character/mejirodober/mejirodober_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750750651/files/user/character/mejirodober/mejirodober_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753317/files/user/character/mejirodober/header_mejirodober.jpg"
+    }
+  },
+  "nicenature": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211788/files/user/character/nicenature/nicenature_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211789/files/user/character/nicenature/nicenature_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211790/files/user/character/nicenature/nicenature_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211790/files/user/character/nicenature/nicenature_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211791/files/user/character/nicenature/nicenature_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211791/files/user/character/nicenature/nicenature_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211792/files/user/character/nicenature/nicenature_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211792/files/user/character/nicenature/nicenature_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211793/files/user/character/nicenature/nicenature_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211788/files/user/character/nicenature/nicenature_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167640/files/user/character/nicenature/nicenature_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211788/files/user/character/nicenature/nicenature_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753363/files/user/character/nicenature/header_nicenature.jpg"
+    }
+  },
+  "kinghalo": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1749211819/files/user/character/kinghalo/kinghalo_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1749211820/files/user/character/kinghalo/kinghalo_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211821/files/user/character/kinghalo/kinghalo_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211821/files/user/character/kinghalo/kinghalo_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211822/files/user/character/kinghalo/kinghalo_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211822/files/user/character/kinghalo/kinghalo_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211818/files/user/character/kinghalo/kinghalo_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211818/files/user/character/kinghalo/kinghalo_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1749211819/files/user/character/kinghalo/kinghalo_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1749211819/files/user/character/kinghalo/kinghalo_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167517/files/user/character/kinghalo/kinghalo_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1749211819/files/user/character/kinghalo/kinghalo_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753236/files/user/character/kinghalo/header_kinghalo.jpg"
+    }
+  },
+  "matikanetannhauser": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1752477914/files/user/character/matikanetannhauser/matikanetannhauser_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1752477915/files/user/character/matikanetannhauser/matikanetannhauser_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477915/files/user/character/matikanetannhauser/matikanetannhauser_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477916/files/user/character/matikanetannhauser/matikanetannhauser_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477916/files/user/character/matikanetannhauser/matikanetannhauser_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477916/files/user/character/matikanetannhauser/matikanetannhauser_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477916/files/user/character/matikanetannhauser/matikanetannhauser_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477917/files/user/character/matikanetannhauser/matikanetannhauser_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1752477917/files/user/character/matikanetannhauser/matikanetannhauser_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1752477917/files/user/character/matikanetannhauser/matikanetannhauser_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167567/files/user/character/matikanetannhauser/matikanetannhauser_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1752477917/files/user/character/matikanetannhauser/matikanetannhauser_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1752477915/files/user/character/matikanetannhauser/header_matikanetannhauser.jpg"
+    }
+  },
+  "ikunodictus": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167479/files/user/character/ikunodictus/ikunodictus_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/ikunodictus_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255148/files/user/character/ikunodictus/header_ikunodictus.jpg"
+    }
+  },
+  "mejiropalmer": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/mejiropalmer_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/mejiropalmer_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255178/files/user/character/mejiropalmer/mejiropalmer_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255178/files/user/character/mejiropalmer/mejiropalmer_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255178/files/user/character/mejiropalmer/mejiropalmer_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255178/files/user/character/mejiropalmer/mejiropalmer_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255179/files/user/character/mejiropalmer/mejiropalmer_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255179/files/user/character/mejiropalmer/mejiropalmer_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/mejiropalmer_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/mejiropalmer_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167599/files/user/character/mejiropalmer/mejiropalmer_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/mejiropalmer_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255177/files/user/character/mejiropalmer/header_mejiropalmer.jpg"
+    }
+  },
+  "daitakuhelios": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751254968/files/user/character/daitakuhelios/daitakuhelios_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751254968/files/user/character/daitakuhelios/daitakuhelios_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751254969/files/user/character/daitakuhelios/daitakuhelios_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751254969/files/user/character/daitakuhelios/daitakuhelios_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751254970/files/user/character/daitakuhelios/daitakuhelios_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751254970/files/user/character/daitakuhelios/daitakuhelios_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751254970/files/user/character/daitakuhelios/daitakuhelios_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751254971/files/user/character/daitakuhelios/daitakuhelios_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751254971/files/user/character/daitakuhelios/daitakuhelios_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751254971/files/user/character/daitakuhelios/daitakuhelios_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167370/files/user/character/daitakuhelios/daitakuhelios_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751254968/files/user/character/daitakuhelios/daitakuhelios_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751254969/files/user/character/daitakuhelios/header_daitakuhelios.jpg"
+    }
+  },
+  "twinturbo": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255020/files/user/character/twinturbo/twinturbo_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255020/files/user/character/twinturbo/twinturbo_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255021/files/user/character/twinturbo/twinturbo_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255021/files/user/character/twinturbo/twinturbo_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255021/files/user/character/twinturbo/twinturbo_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255022/files/user/character/twinturbo/twinturbo_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255022/files/user/character/twinturbo/twinturbo_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255022/files/user/character/twinturbo/twinturbo_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255023/files/user/character/twinturbo/twinturbo_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255023/files/user/character/twinturbo/twinturbo_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167742/files/user/character/twinturbo/twinturbo_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255023/files/user/character/twinturbo/twinturbo_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255020/files/user/character/twinturbo/header_twinturbo.jpg"
+    }
+  },
+  "satonodiamond": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255220/files/user/character/satonodiamond/satonodiamond_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255220/files/user/character/satonodiamond/satonodiamond_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255221/files/user/character/satonodiamond/satonodiamond_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255221/files/user/character/satonodiamond/satonodiamond_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255222/files/user/character/satonodiamond/satonodiamond_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255222/files/user/character/satonodiamond/satonodiamond_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255223/files/user/character/satonodiamond/satonodiamond_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255223/files/user/character/satonodiamond/satonodiamond_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255224/files/user/character/satonodiamond/satonodiamond_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255220/files/user/character/satonodiamond/satonodiamond_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167673/files/user/character/satonodiamond/satonodiamond_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255220/files/user/character/satonodiamond/satonodiamond_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255221/files/user/character/satonodiamond/header_satonodiamond.jpg"
+    }
+  },
+  "kitasanblack": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255262/files/user/character/kitasanblack/kitasanblack_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255263/files/user/character/kitasanblack/kitasanblack_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255263/files/user/character/kitasanblack/kitasanblack_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255263/files/user/character/kitasanblack/kitasanblack_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255264/files/user/character/kitasanblack/kitasanblack_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255264/files/user/character/kitasanblack/kitasanblack_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255265/files/user/character/kitasanblack/kitasanblack_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255265/files/user/character/kitasanblack/kitasanblack_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255266/files/user/character/kitasanblack/kitasanblack_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255266/files/user/character/kitasanblack/kitasanblack_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167527/files/user/character/kitasanblack/kitasanblack_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255266/files/user/character/kitasanblack/kitasanblack_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255263/files/user/character/kitasanblack/header_kitasanblack.jpg"
+    }
+  },
+  "sakurachiyonoo": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751263566/files/user/character/sakurachiyonoo/sakurachiyonoo_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751263566/files/user/character/sakurachiyonoo/sakurachiyonoo_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751263567/files/user/character/sakurachiyonoo/sakurachiyonoo_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751263567/files/user/character/sakurachiyonoo/sakurachiyonoo_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751263568/files/user/character/sakurachiyonoo/sakurachiyonoo_02_2.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751263568/files/user/character/sakurachiyonoo/sakurachiyonoo_02_thumb_2.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751263569/files/user/character/sakurachiyonoo/sakurachiyonoo_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751263569/files/user/character/sakurachiyonoo/sakurachiyonoo_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751263570/files/user/character/sakurachiyonoo/sakurachiyonoo_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751263570/files/user/character/sakurachiyonoo/sakurachiyonoo_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167665/files/user/character/sakurachiyonoo/sakurachiyonoo_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751263566/files/user/character/sakurachiyonoo/sakurachiyonoo_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751263566/files/user/character/sakurachiyonoo/header_sakurachiyonoo.jpg"
+    }
+  },
+  "siriussymboli": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843697/files/user/character/siriussymboli/siriussymboli_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843698/files/user/character/siriussymboli/siriussymboli_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843698/files/user/character/siriussymboli/siriussymboli_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843699/files/user/character/siriussymboli/siriussymboli_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843699/files/user/character/siriussymboli/siriussymboli_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843699/files/user/character/siriussymboli/siriussymboli_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843700/files/user/character/siriussymboli/siriussymboli_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843700/files/user/character/siriussymboli/siriussymboli_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843701/files/user/character/siriussymboli/siriussymboli_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843701/files/user/character/siriussymboli/siriussymboli_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167693/files/user/character/siriussymboli/siriussymboli_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843697/files/user/character/siriussymboli/siriussymboli_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843698/files/user/character/siriussymboli/header_siriussymboli.jpg"
+    }
+  },
+  "mejiroardan": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843425/files/user/character/mejiroardan/mejiroardan_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843425/files/user/character/mejiroardan/mejiroardan_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843426/files/user/character/mejiroardan/mejiroardan_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843426/files/user/character/mejiroardan/mejiroardan_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843427/files/user/character/mejiroardan/mejiroardan_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843427/files/user/character/mejiroardan/mejiroardan_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843428/files/user/character/mejiroardan/mejiroardan_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843428/files/user/character/mejiroardan/mejiroardan_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843429/files/user/character/mejiroardan/mejiroardan_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843429/files/user/character/mejiroardan/mejiroardan_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167583/files/user/character/mejiroardan/mejiroardan_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843425/files/user/character/mejiroardan/mejiroardan_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843426/files/user/character/mejiroardan/header_mejiroardan.jpg"
+    }
+  },
+  "yaenomuteki": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167758/files/user/character/yaenomuteki/yaenomuteki_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/yaenomuteki_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1751255460/files/user/character/yaenomuteki/header_yaenomuteki.jpg"
+    }
+  },
+  "tsurumarutsuyoshi": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440063/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440063/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440063/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440064/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440061/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440063/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440062/files/user/character/tsurumarutsuyoshi/tsurumarutsuyoshi_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440063/files/user/character/tsurumarutsuyoshi/header_tsurumarutsuyoshi.jpg"
+    }
+  },
+  "mejirobright": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1757055121/files/user/character/mejirobright/mejirobright_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1757055121/files/user/character/mejirobright/mejirobright_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055122/files/user/character/mejirobright/mejirobright_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055122/files/user/character/mejirobright/mejirobright_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055123/files/user/character/mejirobright/mejirobright_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055123/files/user/character/mejirobright/mejirobright_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055123/files/user/character/mejirobright/mejirobright_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055123/files/user/character/mejirobright/mejirobright_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055124/files/user/character/mejirobright/mejirobright_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055121/files/user/character/mejirobright/mejirobright_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167588/files/user/character/mejirobright/mejirobright_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1757055121/files/user/character/mejirobright/mejirobright_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1757055121/files/user/character/mejirobright/header_mejirobright.jpg"
+    }
+  },
+  "sakuralaurel": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/sakuralaurel_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/sakuralaurel_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/sakuralaurel_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/sakuralaurel_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777235/files/user/character/sakuralaurel/sakuralaurel_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777233/files/user/character/sakuralaurel/sakuralaurel_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777233/files/user/character/sakuralaurel/sakuralaurel_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777233/files/user/character/sakuralaurel/sakuralaurel_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/sakuralaurel_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779777233/files/user/character/sakuralaurel/sakuralaurel_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779777234/files/user/character/sakuralaurel/header_sakuralaurel.jpg"
+    }
+  },
+  "naritatoproad": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1757055075/files/user/character/naritatoproad/naritatoproad_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1757055075/files/user/character/naritatoproad/naritatoproad_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055076/files/user/character/naritatoproad/naritatoproad_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055076/files/user/character/naritatoproad/naritatoproad_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055077/files/user/character/naritatoproad/naritatoproad_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055077/files/user/character/naritatoproad/naritatoproad_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055077/files/user/character/naritatoproad/naritatoproad_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055078/files/user/character/naritatoproad/naritatoproad_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1757055078/files/user/character/naritatoproad/naritatoproad_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1757055078/files/user/character/naritatoproad/naritatoproad_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167635/files/user/character/naritatoproad/naritatoproad_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1757055075/files/user/character/naritatoproad/naritatoproad_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1757055076/files/user/character/naritatoproad/header_naritatoproad.jpg"
+    }
+  },
+  "yamaninzephyr": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777114/files/user/character/yamaninzephyr/yamaninzephyr_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777114/files/user/character/yamaninzephyr/yamaninzephyr_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777114/files/user/character/yamaninzephyr/yamaninzephyr_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777114/files/user/character/yamaninzephyr/yamaninzephyr_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777115/files/user/character/yamaninzephyr/yamaninzephyr_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777112/files/user/character/yamaninzephyr/yamaninzephyr_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/yamaninzephyr_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779777113/files/user/character/yamaninzephyr/header_yamaninzephyr.jpg"
+    }
+  },
+  "symbolikriss": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779777046/files/user/character/symbolikriss/symbolikriss_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777046/files/user/character/symbolikriss/symbolikriss_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777046/files/user/character/symbolikriss/symbolikriss_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777047/files/user/character/symbolikriss/symbolikriss_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777044/files/user/character/symbolikriss/symbolikriss_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1779777046/files/user/character/symbolikriss/symbolikriss_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779777045/files/user/character/symbolikriss/symbolikriss_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779777046/files/user/character/symbolikriss/header_symbolikriss.jpg"
+    }
+  },
+  "taninogimlet": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440520/files/user/character/taninogimlet/taninogimlet_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440520/files/user/character/taninogimlet/taninogimlet_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440520/files/user/character/taninogimlet/taninogimlet_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440518/files/user/character/taninogimlet/taninogimlet_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440518/files/user/character/taninogimlet/taninogimlet_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440520/files/user/character/taninogimlet/taninogimlet_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440519/files/user/character/taninogimlet/taninogimlet_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440520/files/user/character/taninogimlet/header_taninogimlet.jpg"
+    }
+  },
+  "daiichiruby": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/daiichiruby_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440250/files/user/character/daiichiruby/daiichiruby_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440251/files/user/character/daiichiruby/header_daiichiruby.jpg"
+    }
+  },
+  "astonmachan": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/astonmachan_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/astonmachan_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/astonmachan_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/astonmachan_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440414/files/user/character/astonmachan/astonmachan_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/astonmachan_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440412/files/user/character/astonmachan/astonmachan_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440413/files/user/character/astonmachan/header_astonmachan.jpg"
+    }
+  },
+  "ksmiracle": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440303/files/user/character/ksmiracle/k.s.miracle_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440303/files/user/character/ksmiracle/k.s.miracle_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440303/files/user/character/ksmiracle/k.s.miracle_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440303/files/user/character/ksmiracle/k.s.miracle_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440303/files/user/character/ksmiracle/k.s.miracle_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/k.s.miracle_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440302/files/user/character/ksmiracle/header_k.s.miracle.jpg"
+    }
+  },
+  "copanorickey": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/copanorickey_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440148/files/user/character/copanorickey/header_copanorickey.jpg"
+    }
+  },
+  "hokkotarumae": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/hokkotarumae_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/hokkotarumae_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/hokkotarumae_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/hokkotarumae_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777396/files/user/character/hokkotarumae/hokkotarumae_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777396/files/user/character/hokkotarumae/hokkotarumae_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777396/files/user/character/hokkotarumae/hokkotarumae_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777396/files/user/character/hokkotarumae/hokkotarumae_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777394/files/user/character/hokkotarumae/hokkotarumae_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777394/files/user/character/hokkotarumae/hokkotarumae_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/hokkotarumae_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779777394/files/user/character/hokkotarumae/hokkotarumae_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779777395/files/user/character/hokkotarumae/header_hokkotarumae.jpg"
+    }
+  },
+  "wonderacute": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/wonderacute_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/wonderacute_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/wonderacute_01.png",
+        "name": {
+          "key": "v-001",
+          "label": "Uniform"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/wonderacute_01_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777165/files/user/character/wonderacute/wonderacute_02.png",
+        "name": {
+          "key": "v-002",
+          "label": "Racewear"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777165/files/user/character/wonderacute/wonderacute_02_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777165/files/user/character/wonderacute/wonderacute_03.png",
+        "name": {
+          "key": "v-003",
+          "label": "Concept Art"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777165/files/user/character/wonderacute/wonderacute_03_thumb.png"
+      },
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779777163/files/user/character/wonderacute/wonderacute_04.png",
+        "name": {
+          "key": "v-004",
+          "label": "Starting Future"
+        },
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779777163/files/user/character/wonderacute/wonderacute_04_thumb.png"
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/wonderacute_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779777163/files/user/character/wonderacute/wonderacute_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779777164/files/user/character/wonderacute/header_wonderacute.jpg"
+    }
+  },
+  "happymeek": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744275438/files/user/character/happymeek/happymik_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744275439/files/user/character/happymeek/happymik_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744275437/files/user/character/happymeek/happymik_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744275437/files/user/character/happymeek/happymik_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744275438/files/user/character/happymeek/happymik_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753149/files/user/character/happymeek/header_happymeek.jpg"
+    }
+  },
+  "bitterglasse": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/bitterglasse_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/bitterglasse_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/bitterglasse_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/bitterglasse_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/bitterglasse_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779849319/files/user/character/bitterglasse/header_bitterglasse.jpg"
+    }
+  },
+  "littlecocon": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1779849329/files/user/character/littlecocon/littlecocon_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1779849330/files/user/character/littlecocon/littlecocon_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1779849330/files/user/character/littlecocon/littlecocon_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1779849330/files/user/character/littlecocon/littlecocon_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1779849329/files/user/character/littlecocon/littlecocon_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1779849330/files/user/character/littlecocon/header_littlecocon.jpg"
+    }
+  },
+  "tazunahayakawa": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1744275457/files/user/character/hayakawatazuna/hayakawatazuna_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1744275457/files/user/character/hayakawatazuna/hayakawatazuna_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1744275456/files/user/character/hayakawatazuna/hayakawatazuna_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1744275456/files/user/character/hayakawatazuna/hayakawatazuna_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": "https://en-portal.g.kuroco-img.app/v=1758167460/files/user/character/hayakawatazuna/hayakawatazuna_voice.mp3",
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1744275457/files/user/character/hayakawatazuna/hayakawatazuna_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753169/files/user/character/hayakawatazuna/header_hayakawatazuna.jpg"
+    }
+  },
+  "yayoiakikawa": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750733979/files/user/character/akikawayayoi/akikawayayoi_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750733979/files/user/character/akikawayayoi/akikawayayoi_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750733979/files/user/character/akikawayayoi/akikawayayoi_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750733979/files/user/character/akikawayayoi/akikawayayoi_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750733979/files/user/character/akikawayayoi/akikawayayoi_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750757139/files/user/character/akikawayayoi/header_akikawayayoi.jpg"
+    }
+  },
+  "etsukootonashi": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750404335/files/user/character/otonashietsuko/otonashietsuko_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750404336/files/user/character/otonashietsuko/otonashietsuko_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750404337/files/user/character/otonashietsuko/otonashietsuko_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750404337/files/user/character/otonashietsuko/otonashietsuko_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750404337/files/user/character/otonashietsuko/otonashietsuko_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753415/files/user/character/otonashietsuko/header_otonashietsuko.jpg"
+    }
+  },
+  "aoikiryuin": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750404741/files/user/character/kiryuinaoi/kiryuinaoi_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750404741/files/user/character/kiryuinaoi/kiryuinaoi_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750404742/files/user/character/kiryuinaoi/kiryuinaoi_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750404742/files/user/character/kiryuinaoi/kiryuinaoi_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750404742/files/user/character/kiryuinaoi/kiryuinaoi_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753243/files/user/character/kiryuinaoi/header_kiryuinaoi.jpg"
+    }
+  },
+  "sasamianshinzawa": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1750404940/files/user/character/anshinzawasasami/anshinzawasasami_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1750404939/files/user/character/anshinzawasasami/anshinzawasasami_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1750404940/files/user/character/anshinzawasasami/anshinzawasasami_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1750404940/files/user/character/anshinzawasasami/anshinzawasasami_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1750404940/files/user/character/anshinzawasasami/anshinzawasasami_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1750753033/files/user/character/anshinzawasasami/header_anshinzawasasami.jpg"
+    }
+  },
+  "kashimotoriko": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/kashimotoriko_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/kashimotoriko_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/kashimotoriko_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/kashimotoriko_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/kashimotoriko_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1753843592/files/user/character/kashimotoriko/header_kashimotoriko.jpg"
+    }
+  },
+  "lighthello": {
+    "list_thumb": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/lighthello_list.png",
+    "top_thumb": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/lighthello_top.png",
+    "visual": [
+      {
+        "image": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/lighthello_01.png",
+        "thumb": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/lighthello_01.png",
+        "name": {
+          "key": "v-001",
+          "label": ""
+        }
+      }
+    ],
+    "voice": null,
+    "download": {
+      "icon": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/lighthello_icon.png",
+      "banner": "https://en-portal.g.kuroco-img.app/v=1768440217/files/user/character/lighthello/header_lighthello.jpg"
+    }
+  }
+}

@@ -1,0 +1,490 @@
+@charset "UTF-8";
+
+@supports (height: 100dvh){
+  .steam_lp__video.svelte-yl5d1j{
+    height:100dvh
+  }
+}
+
+@supports not (height: 100dvh){
+  .steam_lp__video.svelte-yl5d1j{
+    height:calc(var(--vh, 1vh) * 100)
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+  position:relative;overflow:hidden;display:flex;justify-content:center;align-items:center;text-align:center;margin:0 auto;line-height:1.2;background-color:#fff;border-color:var(--color-gray-2);color:var(--color-gray-2);z-index:1;letter-spacing:.05em;border-radius:999px;font-weight:700;will-change:transform;backface-visibility:hidden;transform:translateZ(0);transition:transform .3s cubic-bezier(.175,.885,.32,1.275)
+}
+
+@media (hover: hover) and (pointer: fine) and (min-width: 900px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):hover{
+    transition:transform .5s cubic-bezier(.19,1,.22,1);transform:scale(.95) translateZ(0)
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-width:.4vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-width:.1041666667vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-width:2.0833333333px
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):before,.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):after{
+  content:"";height:100%;width:100%;pointer-events:none;position:absolute;top:0;left:0;background-image:url(https://umamusume.com/_app/immutable/assets/decoration_base.ax2DgMiQ.svg);background-size:auto 100%;background-repeat:no-repeat
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):before{
+  opacity:.8
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):after{
+  transform:scaleX(-1);opacity:.8
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+  border-color:#73788c;background-color:#73788c;color:#fff;filter:drop-shadow(var(--xpos) var(--ypos) var(--blur) rgba(0,0,0,.25))
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: .4vw;--ypos: .4vw;--blur: 1.3333333333vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: .2083333333vw;--ypos: .2083333333vw;--blur: .6944444444vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: 4.1666666667px;--ypos: 4.1666666667px;--blur: 13.8888888889px
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-radius:2.1333333333vw;border-width:.5333333333vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-radius:.6944444444vw;border-width:.2083333333vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    border-radius:13.8888888889px;border-width:4.1666666667px
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):before,.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):after{
+  background-image:url(https://umamusume.com/_app/immutable/assets/decoration_square.CPV5Y4-u.svg)
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):before{
+  filter:brightness(0) invert(1);opacity:.4
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j):after{
+  transform:scaleX(-1);opacity:.4
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+  filter:drop-shadow(var(--xpos) var(--ypos) var(--blur) rgba(0,0,0,.25))
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: 0;--ypos: .2666666667vw;--blur: .6666666667vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: 0;--ypos: .1388888889vw;--blur: .3472222222vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    --xpos: 0;--ypos: 2.7777777778px;--blur: 6.9444444444px
+  }
+}
+
+body.page-promotion-steam_lp #umamusume-en-header{
+  visibility:hidden;opacity:0
+}
+
+.steam_lp.svelte-yl5d1j{
+  position:relative
+}
+
+@media (max-width: 899.98px){
+  .steam_lp.svelte-yl5d1j{
+    --ot-height: 135px
+  }
+}
+
+@media (min-width: 900px){
+  .steam_lp.svelte-yl5d1j{
+    --ot-height: 100px
+  }
+}
+
+.steam_lp__header.svelte-yl5d1j{
+  position:absolute;display:flex;align-items:flex-start;z-index:1
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__header.svelte-yl5d1j{
+    top:5.3333333333vw;left:5.3333333333vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__header.svelte-yl5d1j{
+    top:1.0416666667vw;left:1.6666666667vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__header.svelte-yl5d1j{
+    top:20.8333333333px;left:33.3333333333px
+  }
+}
+
+.steam_lp__header.svelte-yl5d1j>:where(.svelte-yl5d1j){
+  display:block
+}
+
+.steam_lp__header.svelte-yl5d1j .-logo:where(.svelte-yl5d1j){
+  transition:opacity .3s cubic-bezier(.19,1,.22,1)
+}
+
+@media (hover: hover) and (pointer: fine) and (min-width: 900px){
+  .steam_lp__header.svelte-yl5d1j .-logo:where(.svelte-yl5d1j):hover{
+    opacity:.7
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__header.svelte-yl5d1j .-logo:where(.svelte-yl5d1j){
+    width:48vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__header.svelte-yl5d1j .-logo:where(.svelte-yl5d1j){
+    width:20.9722222222vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__header.svelte-yl5d1j .-logo:where(.svelte-yl5d1j){
+    width:419.4444444444px
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__header.svelte-yl5d1j .-steam:where(.svelte-yl5d1j){
+    width:28.2666666667vw;margin-left:4.8vw;margin-top:3.2vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__header.svelte-yl5d1j .-steam:where(.svelte-yl5d1j){
+    width:11.8055555556vw;margin-left:2.2222222222vw;margin-top:1.3888888889vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__header.svelte-yl5d1j .-steam:where(.svelte-yl5d1j){
+    width:236.1111111111px;margin-left:44.4444444444px;margin-top:27.7777777778px
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j{
+  position:absolute;color:#fff;z-index:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;width:100%
+}
+
+@media (min-width: 900px){
+  .steam_lp__main.svelte-yl5d1j{
+    bottom:var(--ot-height)
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j{
+    bottom:8vw
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j .-text:where(.svelte-yl5d1j){
+  font-weight:700;font-style:italic;letter-spacing:.05em;line-height:1.3;width:100%
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j .-text:where(.svelte-yl5d1j){
+    font-size:4.8vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j .-text:where(.svelte-yl5d1j){
+    font-size:1.6666666667vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j .-text:where(.svelte-yl5d1j){
+    font-size:33.3333333333px
+  }
+}
+
+.steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+  font-style:italic;letter-spacing:.05em;background-color:rgb(var(--color-rgb-news));border-color:rgb(var(--color-rgb-news-dark));border-radius:999px
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    font-size:4.8vw;width:69.3333333333vw;height:12vw;margin-top:3.2vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    font-size:1.3888888889vw;width:22.2222222222vw;height:3.8194444444vw;margin-top:.9722222222vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__main.svelte-yl5d1j a:where(.svelte-yl5d1j){
+    font-size:27.7777777778px;width:444.4444444444px;height:76.3888888889px;margin-top:19.4444444444px
+  }
+}
+
+.steam_lp__video.svelte-yl5d1j{
+  width:100%;object-fit:cover;object-position:center
+}
+
+@media (max-width: 899.98px){
+  @supports (height: 100svh){
+    .steam_lp__video.svelte-yl5d1j{
+      height:calc(100svh - var(--ot-height, 0px))
+    }
+  }@supports not (height: 100svh){
+    .steam_lp__video.svelte-yl5d1j{
+      height:calc(var(--vh, 1vh) * 100 - var(--ot-height, 0px))
+    }
+  }
+}
+
+@media (max-width: 899.98px){
+  .steam_lp__video.svelte-yl5d1j{
+    min-height:133.3333333333vw
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .steam_lp__video.svelte-yl5d1j{
+    min-height:34.7222222222vw
+  }
+}
+
+@media (min-width: 2000px){
+  .steam_lp__video.svelte-yl5d1j{
+    min-height:694.4444444444px
+  }
+}
+
+.page-promotion-steam_lp main{
+  background-color:#efecfb;padding-bottom:0!important
+}
+
+.page-promotion-steam_lp .umamusume-en-footer .btn-gotop,.page-promotion-steam_lp .umamusume-en-footer .footer__download,.page-promotion-steam_lp .umamusume-en-footer .footer__sns{
+  display:none
+}
+
+.page-promotion-steam_lp .umamusume-en-footer .footer__copy{
+  display:grid;justify-content:center;justify-items:center;align-items:center;text-align:center;line-height:1.1
+}
+
+.page-promotion-steam_lp .umamusume-en-footer .footer__copy .-text{
+  display:block
+}
+
+.page-promotion-steam_lp .umamusume-en-footer .footer__copy .-text:before{
+  content:"©2025 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries."
+}
+
+@media (min-width: 900px) and (max-width: 1999.98px){
+  .umamusume-en-footer .btn-gotop img{
+    --xpos: 0;--ypos: .1388888889vw;--blur: .3472222222vw
+  }.umamusume-en-footer .btn-gotop{
+    right:3.0555555556vw;width:5.4166666667vw;top:-7.2916666667vw
+  }.umamusume-en-footer .footer__download{
+    padding:3.4722222222vw 0
+  }.umamusume-en-footer .footer__download--box{
+    min-width:58.8194444444vw
+  }.umamusume-en-footer .footer__download .grid1 .-download-title{
+    font-size:2.0833333333vw;margin-left:2.0833333333vw;margin-top:0
+  }.umamusume-en-footer .footer__download .grid1 .-app-icon{
+    width:6.6666666667vw;border-radius:1.25vw;margin-left:-1.3888888889vw
+  }.umamusume-en-footer .footer__download .store-list{
+    margin:2.0833333333vw 0 0;gap:0 1.0416666667vw
+  }.umamusume-en-footer .footer__download .store-list .-badge{
+    height:3.9583333333vw
+  }.umamusume-en-footer .footer__download .store-notes{
+    font-size:.6944444444vw;margin:1.3888888889vw 0 0 .3472222222vw
+  }.umamusume-en-footer .footer__wrapper{
+    padding:1.3888888889vw 0 2.7777777778vw
+  }.umamusume-en-footer .footer__sns{
+    padding:1.3888888889vw 0 2.7777777778vw;font-size:.9722222222vw
+  }.umamusume-en-footer .footer__sns dd{
+    margin-left:.6944444444vw;margin-right:-.5555555556vw
+  }.umamusume-en-footer .footer__sns dd a{
+    margin:0 .8333333333vw
+  }.umamusume-en-footer .footer__sns dd a.sns-x{
+    width:2.5vw
+  }.umamusume-en-footer .footer__sns dd a.sns-facebook{
+    width:2.6388888889vw
+  }.umamusume-en-footer .footer__sns dd a.sns-youtube,.umamusume-en-footer .footer__sns dd a.sns-discord{
+    width:3.0555555556vw
+  }.umamusume-en-footer .footer__nav{
+    font-size:.9027777778vw
+  }.umamusume-en-footer .footer__nav ul{
+    width:65.9722222222vw;margin-bottom:-1.0416666667vw
+  }.umamusume-en-footer .footer__nav ul li{
+    padding:0 1.0416666667vw;margin-bottom:1.0416666667vw
+  }.umamusume-en-footer .footer__copy{
+    margin-top:-1.9444444444vw;padding:0 3.4722222222vw;font-size:.9027777778vw
+  }.umamusume-en-footer .footer__copy .-cygames{
+    width:7.9861111111vw
+  }.umamusume-en-footer .footer__copy .-copy{
+    height:.8333333333vw
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__wrapper{
+    padding-top:2.6388888889vw
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__copy{
+    margin-top:2.7777777778vw;gap:1.3888888889vw
+  }
+}
+
+@media (min-width: 2000px){
+  .umamusume-en-footer .btn-gotop img{
+    --xpos: 0;--ypos: 2.7777777778px;--blur: 6.9444444444px
+  }.umamusume-en-footer .btn-gotop{
+    right:61.1111111111px;width:108.3333333333px;top:-145.8333333333px
+  }.umamusume-en-footer .footer__download{
+    padding:69px 0
+  }.umamusume-en-footer .footer__download--box{
+    min-width:1176.3888888889px
+  }.umamusume-en-footer .footer__download .grid1 .-download-title{
+    font-size:41.6666666667px;margin-left:41.6666666667px;margin-top:0
+  }.umamusume-en-footer .footer__download .grid1 .-app-icon{
+    width:133.3333333333px;border-radius:25px;margin-left:-27.7777777778px
+  }.umamusume-en-footer .footer__download .store-list{
+    margin:42px 0 0;gap:0 21px
+  }.umamusume-en-footer .footer__download .store-list .-badge{
+    height:79.1666666667px
+  }.umamusume-en-footer .footer__download .store-notes{
+    font-size:13.8888888889px;margin:28px 0 0 7px
+  }.umamusume-en-footer .footer__wrapper{
+    padding:28px 0 56px
+  }.umamusume-en-footer .footer__sns{
+    padding:28px 0 56px;font-size:19.4444444444px
+  }.umamusume-en-footer .footer__sns dd{
+    margin-left:13.8888888889px;margin-right:-11.1111111111px
+  }.umamusume-en-footer .footer__sns dd a{
+    margin:0 17px
+  }.umamusume-en-footer .footer__sns dd a.sns-x{
+    width:50px
+  }.umamusume-en-footer .footer__sns dd a.sns-facebook{
+    width:52.7777777778px
+  }.umamusume-en-footer .footer__sns dd a.sns-youtube,.umamusume-en-footer .footer__sns dd a.sns-discord{
+    width:61.1111111111px
+  }.umamusume-en-footer .footer__nav{
+    font-size:18.0555555556px
+  }.umamusume-en-footer .footer__nav ul{
+    width:1319.4444444444px;margin-bottom:-20.8333333333px
+  }.umamusume-en-footer .footer__nav ul li{
+    padding:0 21px;margin-bottom:20.8333333333px
+  }.umamusume-en-footer .footer__copy{
+    margin-top:-38.8888888889px;padding:0 69px;font-size:18.0555555556px
+  }.umamusume-en-footer .footer__copy .-cygames{
+    width:159.7222222222px
+  }.umamusume-en-footer .footer__copy .-copy{
+    height:16.6666666667px
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__wrapper{
+    padding-top:52.7777777778px
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__copy{
+    margin-top:55.5555555556px;gap:27.7777777778px
+  }
+}
+
+@media (max-width: 899.98px){
+  .umamusume-en-footer .btn-gotop img{
+    --xpos: 0;--ypos: .2666666667vw;--blur: .6666666667vw
+  }.is-PC{
+    display:none
+  }.umamusume-en-footer .footer__download{
+    padding:12vw 0;flex-direction:column
+  }.umamusume-en-footer .footer__download--box{
+    min-width:100%
+  }.umamusume-en-footer .footer__download .grid1{
+    flex-direction:column
+  }.umamusume-en-footer .footer__download .grid1 .-download-title{
+    font-size:5.3333333333vw;margin-left:0;margin-top:4.8vw
+  }.umamusume-en-footer .footer__download .grid1 .-app-icon{
+    width:22.4vw;border-radius:3.2vw;margin-left:0
+  }.umamusume-en-footer .footer__download .store-list{
+    justify-content:center;margin:4vw 0 0;gap:2.6666666667vw 2.1333333333vw
+  }.umamusume-en-footer .footer__download .store-list .-badge{
+    height:10.6666666667vw
+  }.umamusume-en-footer .footer__download .store-notes{
+    font-size:2.6666666667vw;margin:4.8vw 5.3333333333vw 0 6.4vw
+  }.umamusume-en-footer .footer__wrapper{
+    padding:10.6666666667vw 0 8vw
+  }.umamusume-en-footer .footer__sns{
+    flex-direction:column;font-size:3.7333333333vw
+  }.umamusume-en-footer .footer__sns dd{
+    margin-top:3.7333333333vw
+  }.umamusume-en-footer .footer__sns dd a{
+    margin:0 3.2vw
+  }.umamusume-en-footer .footer__sns dd a.sns-x,.umamusume-en-footer .footer__sns dd a.sns-facebook{
+    width:11.2vw
+  }.umamusume-en-footer .footer__sns dd a.sns-youtube,.umamusume-en-footer .footer__sns dd a.sns-discord{
+    width:12.2666666667vw
+  }.umamusume-en-footer .footer__nav{
+    font-size:3.2vw;padding-top:9.3333333333vw;letter-spacing:.05em
+  }.umamusume-en-footer .footer__nav ul{
+    flex-direction:column;margin-bottom:-4vw
+  }.umamusume-en-footer .footer__nav ul li{
+    padding:0;margin-bottom:4vw
+  }.umamusume-en-footer .footer__copy{
+    padding:16vw 6.6666666667vw 0;font-size:3.2vw;letter-spacing:.05em
+  }.umamusume-en-footer .footer__copy .-cygames{
+    width:26.6666666667vw
+  }.umamusume-en-footer .footer__copy .-copy{
+    height:3.2vw
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__wrapper{
+    padding-top:1.3333333333vw
+  }.page-promotion-steam_lp .umamusume-en-footer .footer__copy{
+    gap:5.3333333333vw
+  }
+}
+
